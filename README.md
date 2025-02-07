@@ -1,2 +1,2 @@
-# DOGE-CIVIX
-Track actions taken by the Department of Government Efficiency using the BB-G CIVIX tool
+# DOGE-CIVex
+Track actions taken by the Department of Government Efficiency using the BB-G CIVex tool
